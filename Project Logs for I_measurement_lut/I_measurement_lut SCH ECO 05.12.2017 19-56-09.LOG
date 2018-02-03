@@ -1,0 +1,46 @@
+Replace Part C1 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C2 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C3 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C4 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C5 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C6 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C7 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C8 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C9 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C10 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C11 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C12 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C13 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part C14 Condensator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Condensator from A_H_sch_lib.SchLib
+Replace Part L1 Inductance in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Inductance from A_H_sch_lib.SchLib
+Replace Part L2 Inductance in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Inductance from A_H_sch_lib.SchLib
+Replace Part P1 Header 5X2 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Header 5X2 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 5X2 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Header 5X2 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 5X2 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Header 5X2 from Miscellaneous Connectors.IntLib
+Replace Part P4 Header 5X2 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Header 5X2 from Miscellaneous Connectors.IntLib
+Replace Part Q1 IRLML6401 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with IRLML6401 from A_H_sch_lib.SchLib
+Replace Part R1 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part R2 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part R3 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part R4 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part R5 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part R6 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part R7 Resistor in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Resistor from A_H_sch_lib.SchLib
+Replace Part S1 Tact_switch in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Tact_switch from A_H_sch_lib.SchLib
+Replace Part S2 Tact_switch in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Tact_switch from A_H_sch_lib.SchLib
+Replace Part T1 Poly_tie in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Poly_tie from A_H_sch_lib.SchLib
+Replace Part U1 CP2102-GM in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with CP2102-GM from Silicon Labs Interface.IntLib
+Replace Part U2 STM32F103C8T6 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with STM32F103C8T6 from ST Microcontroller 32-Bit STM32.IntLib
+Replace Part U3 DC/DC R-78E in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with DC/DC R-78E from A_H_sch_lib.SchLib
+Replace Part U4 LD1117ADT12TR in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with LD1117ADT12TR from STMicroelectronics Power Management Linear Regulator.IntLib
+Replace Part U5 MCP2551-I/SN in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with MCP2551-I/SN from Microchip Interface.IntLib
+Replace Part X1 miniUSB in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with miniUSB from A_H_sch_lib.SchLib
+Replace Part X2 PINS 7x2.54 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with PINS 7x2.54 from A_H_sch_lib.SchLib
+Replace Part X3 Pins 2x2.54 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Pins 2x2.54 from A_H_sch_lib.SchLib
+Replace Part X4 Pins 4x2.54 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Pins 4x2.54 from A_H_sch_lib.SchLib
+Replace Part X5 Pins 3x2.54 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Pins 3x2.54 from A_H_sch_lib.SchLib
+Replace Part X6 RJ45 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with RJ45 from A_H_sch_lib.SchLib
+Replace Part X7 Pins 5x2.54 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Pins 5x2.54 from A_H_sch_lib.SchLib
+Replace Part X8 RJ45 in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with RJ45 from A_H_sch_lib.SchLib
+Replace Part Z1 KX 13 Geyer in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with KX 13 Geyer from A_H_sch_lib.SchLib
+Replace Part Z2 Crystal Oscillator in D:\workspace\SolarDrone\I_measurement_lut\I_measurement_lut.SchDoc with Crystal Oscillator from A_H_sch_lib.SchLib

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=CAN_RX Pin=U5-1
+Removed Pin From Net: NetName=CAN_TX Pin=U5-4
+Added Component: Designator=P1(HDR2X5)
+Added Component: Designator=P2(HDR2X5)
+Added Component: Designator=P3(HDR2X5)
+Added Component: Designator=P4(HDR2X5)
+Added Component: Designator=R7(R0805)
+Added Pin To Net: NetName=+12V Pin=P1-1
+Added Pin To Net: NetName=-12V Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=+12V Pin=P2-1
+Added Pin To Net: NetName=-12V Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=+12V Pin=P3-1
+Added Pin To Net: NetName=-12V Pin=P3-9
+Added Pin To Net: NetName=GND Pin=P3-10
+Added Pin To Net: NetName=+12V Pin=P4-1
+Added Pin To Net: NetName=-12V Pin=P4-9
+Added Pin To Net: NetName=GND Pin=P4-10
+Added Pin To Net: NetName=CANL Pin=R7-1
+Added Pin To Net: NetName=CANH Pin=R7-2
+Added Pin To Net: NetName=CAN_TX Pin=U5-1
+Added Pin To Net: NetName=CAN_RX Pin=U5-4
+Added Pin To Net: NetName=CLK Pin=P1-6
+Added Pin To Net: NetName=CLK Pin=P2-6
+Added Pin To Net: NetName=CLK Pin=P3-6
+Added Pin To Net: NetName=CLK Pin=P4-6
+Added Net: Name=CLK
+Added Pin To Net: NetName=CS Pin=P1-2
+Added Pin To Net: NetName=CS Pin=P2-2
+Added Pin To Net: NetName=CS Pin=P3-2
+Added Pin To Net: NetName=CS Pin=P4-2
+Added Net: Name=CS
+Added Pin To Net: NetName=MISO Pin=P1-4
+Added Pin To Net: NetName=MISO Pin=P2-4
+Added Pin To Net: NetName=MISO Pin=P3-4
+Added Pin To Net: NetName=MISO Pin=P4-4
+Added Net: Name=MISO
+Added Pin To Net: NetName=VCC Pin=P1-8
+Added Pin To Net: NetName=VCC Pin=P2-8
+Added Pin To Net: NetName=VCC Pin=P3-8
+Added Pin To Net: NetName=VCC Pin=P4-8
+Added Net: Name=VCC
+Added Member To Class: ClassName=I_measurement_lut Member=Component P1 Header 5X2
+Added Member To Class: ClassName=I_measurement_lut Member=Component P2 Header 5X2
+Added Member To Class: ClassName=I_measurement_lut Member=Component P3 Header 5X2
+Added Member To Class: ClassName=I_measurement_lut Member=Component P4 Header 5X2
+Added Member To Class: ClassName=I_measurement_lut Member=Component R7 120

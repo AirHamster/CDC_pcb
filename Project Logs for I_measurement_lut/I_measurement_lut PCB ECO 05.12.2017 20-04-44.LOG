@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetH2_1 Pin=U2-25
+Removed Pin From Net: NetName=NetH1_1 Pin=U2-26
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=Resistor
+Added Pin To Net: NetName=+3.3V Pin=P1-8
+Added Pin To Net: NetName=+3.3V Pin=P2-8
+Added Pin To Net: NetName=+3.3V Pin=P3-8
+Added Pin To Net: NetName=+3.3V Pin=P4-8
+Added Pin To Net: NetName=NetH1_1 Pin=U2-21
+Added Pin To Net: NetName=NetH2_1 Pin=U2-22
+Added Pin To Net: NetName=CS Pin=U2-25
+Added Pin To Net: NetName=CLK Pin=U2-26
+Added Pin To Net: NetName=MISO Pin=U2-28
+Added Pin To Net: NetName=MOSI Pin=U2-27
+Added Net: Name=MOSI

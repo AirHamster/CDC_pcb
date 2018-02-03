@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CANL Pin=X8-1
+Removed Pin From Net: NetName=CANH Pin=X8-2
+Removed Pin From Net: NetName=GND Pin=X8-4
+Removed Pin From Net: NetName=+12V Pin=X8-6
+Removed Pin From Net: NetName=-12V Pin=X8-8
+Removed Member From Class: ClassName=I_measurement_lut Member=X8
+Added Component: Designator=T1(Poly_tie_5x5)
+Added Pin To Net: NetName=GNDA Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Member To Class: ClassName=I_measurement_lut Member=Component T1 Poly_tie

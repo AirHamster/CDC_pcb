@@ -1,0 +1,48 @@
+Change Physical Footprint: Designator=C1 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C2 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C3 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C4 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C5 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C6 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C7 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C8 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C9 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C10 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C11 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C12 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C13 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C14 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=H1 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=H2 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=L1 Old Footprint=L0805 New Footprint=L0805
+Change Physical Footprint: Designator=L2 Old Footprint=L0805 New Footprint=L0805
+Change Physical Footprint: Designator=P1 Old Footprint=HDR2X5 New Footprint=HDR2X5
+Change Physical Footprint: Designator=P2 Old Footprint=HDR2X5 New Footprint=HDR2X5
+Change Physical Footprint: Designator=P3 Old Footprint=HDR2X5 New Footprint=HDR2X5
+Change Physical Footprint: Designator=P4 Old Footprint=HDR2X5 New Footprint=HDR2X5
+Change Physical Footprint: Designator=Q1 Old Footprint=sot-23 New Footprint=sot-23
+Change Physical Footprint: Designator=R1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R4 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R5 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R6 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R7 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=S1 Old Footprint=Tact_switch_smd New Footprint=Tact_switch_smd
+Change Physical Footprint: Designator=S2 Old Footprint=Tact_switch_smd New Footprint=Tact_switch_smd
+Change Physical Footprint: Designator=T1 Old Footprint=Poly_tie_5x5 New Footprint=Poly_tie_5x5
+Change Physical Footprint: Designator=U1 Old Footprint=SLAB-QFN-28-3125x3125TP_N New Footprint=SLAB-QFN-28-3125x3125TP_N
+Change Physical Footprint: Designator=U2 Old Footprint=LQFP48_N New Footprint=LQFP48_N
+Change Physical Footprint: Designator=U3 Old Footprint=DC/DC R-78E New Footprint=DC/DC R-78E
+Change Physical Footprint: Designator=U4 Old Footprint=TO-252_N New Footprint=TO-252_N
+Change Physical Footprint: Designator=U5 Old Footprint=SOIC-SN8_N New Footprint=SOIC-SN8_N
+Change Physical Footprint: Designator=X1 Old Footprint=miniUSB New Footprint=miniUSB
+Change Physical Footprint: Designator=X2 Old Footprint=PINS 7X2.54 New Footprint=PINS 7X2.54
+Change Physical Footprint: Designator=X3 Old Footprint=Pins 2x2.54 New Footprint=Pins 2x2.54
+Change Physical Footprint: Designator=X4 Old Footprint=Pins 4x2.54 New Footprint=Pins 4x2.54
+Change Physical Footprint: Designator=X5 Old Footprint=Pins 3x2.54 New Footprint=Pins 3x2.54
+Change Physical Footprint: Designator=X6 Old Footprint=RJ45 New Footprint=RJ45
+Change Physical Footprint: Designator=X7 Old Footprint=Pins 5x2.54 New Footprint=Pins 5x2.54
+Change Physical Footprint: Designator=X8 Old Footprint=RJ45 New Footprint=RJ45
+Change Physical Footprint: Designator=Z1 Old Footprint=kx 13 12MHz New Footprint=kx 13 12MHz
+Change Physical Footprint: Designator=Z2 Old Footprint=Geyer KX - 327S 32.768kHz New Footprint=Geyer KX - 327S 32.768kHz
